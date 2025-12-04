@@ -1,11 +1,11 @@
-# 📦 Estoque API
+# estoque api
 
 API desenvolvida em **C# (.NET 8)** com **Entity Framework Core** e **SQLite**.  
 O projeto realiza operações básicas de CRUD para gerenciar produtos.
 
 ---
 
-## 🚀 Como rodar
+##  Como rodar
 
 Abra o terminal na pasta do projeto e execute:
 
